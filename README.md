@@ -2,4 +2,5 @@
 
 more learning
 This repository is going to be used for learning github
-Thil file is being edied to test commit command
+This file is being edied to test commit command
+The final edit for readme doc
